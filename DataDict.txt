@@ -1,0 +1,15 @@
+   DATA DICTIONARY - Human Activity Recognition Using Smartphones Dataset V1.0
+   ===========================================================================
+
+   activity
+       Activity performed. Values: WALKING, WALKING_UPSTAIRS, 
+       		WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING 
+   subject 
+   	Volunteer Id. Values 1to 30
+   Columns 3 thru 68 : Average readings for the feature in the label
+   		       Average is computed for each subject and activity combination
+		       For more information about these readings, check features.txt and features_info.txt in source files
+
+
+       
+        
